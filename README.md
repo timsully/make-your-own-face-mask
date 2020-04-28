@@ -3,4 +3,4 @@ The goal of this repo is to provide visibility on various ways to create a face 
 
 Please use, download, contribute, spread the word, and most importantly help save lives!
 
-[Link to downloading materials]()
+[Link to downloading materials](https://github.com/timsully/make-your-own-face-mask/blob/master/Apple-face-shield-make-files.zip)
