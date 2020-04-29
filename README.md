@@ -6,3 +6,5 @@ Please use, download, contribute, spread the word, and most importantly help sav
 [Make Your Own Face Shield - Apple](https://support.apple.com/en-us/HT211142)
 
 [Link to downloading materials](https://github.com/timsully/make-your-own-face-mask/blob/master/Apple-face-shield-make-files.zip)
+
+[Hong Kong Mask Manual - Unofficial](https://diymask.site/)
